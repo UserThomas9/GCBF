@@ -3,15 +3,6 @@
 # GCBF+
 
 
-A much improved version of [GCBFv0](https://mit-realm.github.io/gcbf-website/)!
-
-<div align="center">
-    <img src="./media/cbf1.gif" alt="LidarSpread" width="24.55%"/>
-    <img src="./media/DoubleIntegrator_512_2x.gif" alt="LidarLine" width="24.55%"/>
-    <img src="./media/Obstacle2D_32.gif" alt="VMASReverseTransport" width="24.55%"/>
-    <img src="./media/Obstacle2D_512_2x.gif" alt="VMASWheel" width="24.55%"/>
-</div>
-
 ## Dependencies
 
 We recommend to use [CONDA](https://www.anaconda.com/) to install the requirements:
